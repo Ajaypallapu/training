@@ -1,0 +1,15 @@
+C:\Users\Ajaybabu_Pallapu\source\repos\facade\facade\bin\Debug\net6.0\facade.exe
+C:\Users\Ajaybabu_Pallapu\source\repos\facade\facade\bin\Debug\net6.0\facade.deps.json
+C:\Users\Ajaybabu_Pallapu\source\repos\facade\facade\bin\Debug\net6.0\facade.runtimeconfig.json
+C:\Users\Ajaybabu_Pallapu\source\repos\facade\facade\bin\Debug\net6.0\facade.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\facade\facade\bin\Debug\net6.0\ref\facade.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\facade\facade\bin\Debug\net6.0\facade.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\facade\facade\obj\Debug\net6.0\facade.csproj.AssemblyReference.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\facade\facade\obj\Debug\net6.0\facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajaybabu_Pallapu\source\repos\facade\facade\obj\Debug\net6.0\facade.AssemblyInfoInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\facade\facade\obj\Debug\net6.0\facade.AssemblyInfo.cs
+C:\Users\Ajaybabu_Pallapu\source\repos\facade\facade\obj\Debug\net6.0\facade.csproj.CoreCompileInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\facade\facade\obj\Debug\net6.0\facade.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\facade\facade\obj\Debug\net6.0\ref\facade.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\facade\facade\obj\Debug\net6.0\facade.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\facade\facade\obj\Debug\net6.0\facade.genruntimeconfig.cache

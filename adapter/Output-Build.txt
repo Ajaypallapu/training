@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: adapter, Configuration: Debug Any CPU ------
+1>adapter -> C:\Users\Ajaybabu_Pallapu\source\repos\adapter\adapter\bin\Debug\net6.0\adapter.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

@@ -1,0 +1,15 @@
+C:\Users\Ajaybabu_Pallapu\source\repos\mediator\mediator\bin\Debug\net6.0\mediator.exe
+C:\Users\Ajaybabu_Pallapu\source\repos\mediator\mediator\bin\Debug\net6.0\mediator.deps.json
+C:\Users\Ajaybabu_Pallapu\source\repos\mediator\mediator\bin\Debug\net6.0\mediator.runtimeconfig.json
+C:\Users\Ajaybabu_Pallapu\source\repos\mediator\mediator\bin\Debug\net6.0\mediator.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\mediator\mediator\bin\Debug\net6.0\ref\mediator.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\mediator\mediator\bin\Debug\net6.0\mediator.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\mediator\mediator\obj\Debug\net6.0\mediator.csproj.AssemblyReference.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\mediator\mediator\obj\Debug\net6.0\mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajaybabu_Pallapu\source\repos\mediator\mediator\obj\Debug\net6.0\mediator.AssemblyInfoInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\mediator\mediator\obj\Debug\net6.0\mediator.AssemblyInfo.cs
+C:\Users\Ajaybabu_Pallapu\source\repos\mediator\mediator\obj\Debug\net6.0\mediator.csproj.CoreCompileInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\mediator\mediator\obj\Debug\net6.0\mediator.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\mediator\mediator\obj\Debug\net6.0\ref\mediator.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\mediator\mediator\obj\Debug\net6.0\mediator.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\mediator\mediator\obj\Debug\net6.0\mediator.genruntimeconfig.cache

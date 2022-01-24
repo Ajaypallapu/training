@@ -1,0 +1,15 @@
+C:\Users\Ajaybabu_Pallapu\source\repos\bridge\bridge\bin\Debug\net6.0\bridge.exe
+C:\Users\Ajaybabu_Pallapu\source\repos\bridge\bridge\bin\Debug\net6.0\bridge.deps.json
+C:\Users\Ajaybabu_Pallapu\source\repos\bridge\bridge\bin\Debug\net6.0\bridge.runtimeconfig.json
+C:\Users\Ajaybabu_Pallapu\source\repos\bridge\bridge\bin\Debug\net6.0\bridge.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\bridge\bridge\bin\Debug\net6.0\ref\bridge.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\bridge\bridge\bin\Debug\net6.0\bridge.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\bridge\bridge\obj\Debug\net6.0\bridge.csproj.AssemblyReference.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\bridge\bridge\obj\Debug\net6.0\bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajaybabu_Pallapu\source\repos\bridge\bridge\obj\Debug\net6.0\bridge.AssemblyInfoInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\bridge\bridge\obj\Debug\net6.0\bridge.AssemblyInfo.cs
+C:\Users\Ajaybabu_Pallapu\source\repos\bridge\bridge\obj\Debug\net6.0\bridge.csproj.CoreCompileInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\bridge\bridge\obj\Debug\net6.0\bridge.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\bridge\bridge\obj\Debug\net6.0\ref\bridge.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\bridge\bridge\obj\Debug\net6.0\bridge.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\bridge\bridge\obj\Debug\net6.0\bridge.genruntimeconfig.cache

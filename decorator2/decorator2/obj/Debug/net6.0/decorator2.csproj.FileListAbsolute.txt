@@ -1,0 +1,15 @@
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator2\decorator2\obj\Debug\net6.0\decorator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator2\decorator2\obj\Debug\net6.0\decorator2.AssemblyInfoInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator2\decorator2\obj\Debug\net6.0\decorator2.AssemblyInfo.cs
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator2\decorator2\obj\Debug\net6.0\decorator2.csproj.CoreCompileInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator2\decorator2\obj\Debug\net6.0\decorator2.csproj.AssemblyReference.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator2\decorator2\bin\Debug\net6.0\decorator2.exe
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator2\decorator2\bin\Debug\net6.0\decorator2.deps.json
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator2\decorator2\bin\Debug\net6.0\decorator2.runtimeconfig.json
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator2\decorator2\bin\Debug\net6.0\decorator2.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator2\decorator2\bin\Debug\net6.0\ref\decorator2.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator2\decorator2\bin\Debug\net6.0\decorator2.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator2\decorator2\obj\Debug\net6.0\decorator2.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator2\decorator2\obj\Debug\net6.0\ref\decorator2.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator2\decorator2\obj\Debug\net6.0\decorator2.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator2\decorator2\obj\Debug\net6.0\decorator2.genruntimeconfig.cache

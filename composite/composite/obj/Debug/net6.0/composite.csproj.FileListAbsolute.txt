@@ -1,0 +1,15 @@
+C:\Users\Ajaybabu_Pallapu\source\repos\composite\composite\bin\Debug\net6.0\composite.exe
+C:\Users\Ajaybabu_Pallapu\source\repos\composite\composite\bin\Debug\net6.0\composite.deps.json
+C:\Users\Ajaybabu_Pallapu\source\repos\composite\composite\bin\Debug\net6.0\composite.runtimeconfig.json
+C:\Users\Ajaybabu_Pallapu\source\repos\composite\composite\bin\Debug\net6.0\composite.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\composite\composite\bin\Debug\net6.0\ref\composite.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\composite\composite\bin\Debug\net6.0\composite.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\composite\composite\obj\Debug\net6.0\composite.csproj.AssemblyReference.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\composite\composite\obj\Debug\net6.0\composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajaybabu_Pallapu\source\repos\composite\composite\obj\Debug\net6.0\composite.AssemblyInfoInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\composite\composite\obj\Debug\net6.0\composite.AssemblyInfo.cs
+C:\Users\Ajaybabu_Pallapu\source\repos\composite\composite\obj\Debug\net6.0\composite.csproj.CoreCompileInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\composite\composite\obj\Debug\net6.0\composite.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\composite\composite\obj\Debug\net6.0\ref\composite.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\composite\composite\obj\Debug\net6.0\composite.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\composite\composite\obj\Debug\net6.0\composite.genruntimeconfig.cache

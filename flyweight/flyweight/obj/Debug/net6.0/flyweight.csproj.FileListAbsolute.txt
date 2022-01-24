@@ -1,0 +1,5 @@
+C:\Users\Ajaybabu_Pallapu\source\repos\flyweight\flyweight\obj\Debug\net6.0\flyweight.csproj.AssemblyReference.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\flyweight\flyweight\obj\Debug\net6.0\flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajaybabu_Pallapu\source\repos\flyweight\flyweight\obj\Debug\net6.0\flyweight.AssemblyInfoInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\flyweight\flyweight\obj\Debug\net6.0\flyweight.AssemblyInfo.cs
+C:\Users\Ajaybabu_Pallapu\source\repos\flyweight\flyweight\obj\Debug\net6.0\flyweight.csproj.CoreCompileInputs.cache

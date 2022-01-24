@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b70a04fd-7053-4e94-add6-8dbf61be85a1": {
+      "ProjectGuid": "b70a04fd-7053-4e94-add6-8dbf61be85a1",
+      "DisplayName": "chain of responsibility",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

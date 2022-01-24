@@ -1,0 +1,15 @@
+C:\Users\Ajaybabu_Pallapu\source\repos\prototype\prototype\bin\Debug\net6.0\prototype.exe
+C:\Users\Ajaybabu_Pallapu\source\repos\prototype\prototype\bin\Debug\net6.0\prototype.deps.json
+C:\Users\Ajaybabu_Pallapu\source\repos\prototype\prototype\bin\Debug\net6.0\prototype.runtimeconfig.json
+C:\Users\Ajaybabu_Pallapu\source\repos\prototype\prototype\bin\Debug\net6.0\prototype.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\prototype\prototype\bin\Debug\net6.0\ref\prototype.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\prototype\prototype\bin\Debug\net6.0\prototype.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\prototype\prototype\obj\Debug\net6.0\prototype.csproj.AssemblyReference.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\prototype\prototype\obj\Debug\net6.0\prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajaybabu_Pallapu\source\repos\prototype\prototype\obj\Debug\net6.0\prototype.AssemblyInfoInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\prototype\prototype\obj\Debug\net6.0\prototype.AssemblyInfo.cs
+C:\Users\Ajaybabu_Pallapu\source\repos\prototype\prototype\obj\Debug\net6.0\prototype.csproj.CoreCompileInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\prototype\prototype\obj\Debug\net6.0\prototype.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\prototype\prototype\obj\Debug\net6.0\ref\prototype.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\prototype\prototype\obj\Debug\net6.0\prototype.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\prototype\prototype\obj\Debug\net6.0\prototype.genruntimeconfig.cache

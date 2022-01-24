@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f90ceb3e-7865-48cb-ab3a-0e787bba5353": {
+      "ProjectGuid": "f90ceb3e-7865-48cb-ab3a-0e787bba5353",
+      "DisplayName": "proxy",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

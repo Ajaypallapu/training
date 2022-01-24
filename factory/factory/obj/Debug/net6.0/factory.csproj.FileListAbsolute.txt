@@ -1,0 +1,15 @@
+C:\Users\Ajaybabu_Pallapu\source\repos\factory\factory\obj\Debug\net6.0\factory.csproj.AssemblyReference.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\factory\factory\obj\Debug\net6.0\factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajaybabu_Pallapu\source\repos\factory\factory\obj\Debug\net6.0\factory.AssemblyInfoInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\factory\factory\obj\Debug\net6.0\factory.AssemblyInfo.cs
+C:\Users\Ajaybabu_Pallapu\source\repos\factory\factory\obj\Debug\net6.0\factory.csproj.CoreCompileInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\factory\factory\bin\Debug\net6.0\factory.exe
+C:\Users\Ajaybabu_Pallapu\source\repos\factory\factory\bin\Debug\net6.0\factory.deps.json
+C:\Users\Ajaybabu_Pallapu\source\repos\factory\factory\bin\Debug\net6.0\factory.runtimeconfig.json
+C:\Users\Ajaybabu_Pallapu\source\repos\factory\factory\bin\Debug\net6.0\factory.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\factory\factory\bin\Debug\net6.0\ref\factory.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\factory\factory\bin\Debug\net6.0\factory.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\factory\factory\obj\Debug\net6.0\factory.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\factory\factory\obj\Debug\net6.0\ref\factory.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\factory\factory\obj\Debug\net6.0\factory.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\factory\factory\obj\Debug\net6.0\factory.genruntimeconfig.cache

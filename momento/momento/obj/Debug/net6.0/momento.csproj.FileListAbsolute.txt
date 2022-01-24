@@ -1,0 +1,15 @@
+C:\Users\Ajaybabu_Pallapu\source\repos\momento\momento\obj\Debug\net6.0\momento.csproj.AssemblyReference.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\momento\momento\obj\Debug\net6.0\momento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajaybabu_Pallapu\source\repos\momento\momento\obj\Debug\net6.0\momento.AssemblyInfoInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\momento\momento\obj\Debug\net6.0\momento.AssemblyInfo.cs
+C:\Users\Ajaybabu_Pallapu\source\repos\momento\momento\obj\Debug\net6.0\momento.csproj.CoreCompileInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\momento\momento\bin\Debug\net6.0\momento.exe
+C:\Users\Ajaybabu_Pallapu\source\repos\momento\momento\bin\Debug\net6.0\momento.deps.json
+C:\Users\Ajaybabu_Pallapu\source\repos\momento\momento\bin\Debug\net6.0\momento.runtimeconfig.json
+C:\Users\Ajaybabu_Pallapu\source\repos\momento\momento\bin\Debug\net6.0\momento.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\momento\momento\bin\Debug\net6.0\ref\momento.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\momento\momento\bin\Debug\net6.0\momento.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\momento\momento\obj\Debug\net6.0\momento.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\momento\momento\obj\Debug\net6.0\ref\momento.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\momento\momento\obj\Debug\net6.0\momento.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\momento\momento\obj\Debug\net6.0\momento.genruntimeconfig.cache

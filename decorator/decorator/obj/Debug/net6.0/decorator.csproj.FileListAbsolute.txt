@@ -1,0 +1,5 @@
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator\decorator\obj\Debug\net6.0\decorator.csproj.AssemblyReference.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator\decorator\obj\Debug\net6.0\decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator\decorator\obj\Debug\net6.0\decorator.AssemblyInfoInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator\decorator\obj\Debug\net6.0\decorator.AssemblyInfo.cs
+C:\Users\Ajaybabu_Pallapu\source\repos\decorator\decorator\obj\Debug\net6.0\decorator.csproj.CoreCompileInputs.cache

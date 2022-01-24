@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: builder, Configuration: Debug Any CPU ------
+1>builder -> C:\Users\Ajaybabu_Pallapu\source\repos\builder\builder\bin\Debug\net6.0\builder.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

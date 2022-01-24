@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: singleton, Configuration: Debug Any CPU ------
+1>C:\Users\Ajaybabu_Pallapu\source\repos\singleton\singleton\Program.cs(17,34,17,42): warning CS8618: Non-nullable field 'instance' must contain a non-null value when exiting constructor. Consider declaring the field as nullable.
+1>singleton -> C:\Users\Ajaybabu_Pallapu\source\repos\singleton\singleton\bin\Debug\net6.0\singleton.dll
+1>Done building project "singleton.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

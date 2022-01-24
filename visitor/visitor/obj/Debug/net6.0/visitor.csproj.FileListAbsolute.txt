@@ -1,0 +1,15 @@
+C:\Users\Ajaybabu_Pallapu\source\repos\visitor\visitor\bin\Debug\net6.0\visitor.exe
+C:\Users\Ajaybabu_Pallapu\source\repos\visitor\visitor\bin\Debug\net6.0\visitor.deps.json
+C:\Users\Ajaybabu_Pallapu\source\repos\visitor\visitor\bin\Debug\net6.0\visitor.runtimeconfig.json
+C:\Users\Ajaybabu_Pallapu\source\repos\visitor\visitor\bin\Debug\net6.0\visitor.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\visitor\visitor\bin\Debug\net6.0\ref\visitor.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\visitor\visitor\bin\Debug\net6.0\visitor.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\visitor\visitor\obj\Debug\net6.0\visitor.csproj.AssemblyReference.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\visitor\visitor\obj\Debug\net6.0\visitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajaybabu_Pallapu\source\repos\visitor\visitor\obj\Debug\net6.0\visitor.AssemblyInfoInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\visitor\visitor\obj\Debug\net6.0\visitor.AssemblyInfo.cs
+C:\Users\Ajaybabu_Pallapu\source\repos\visitor\visitor\obj\Debug\net6.0\visitor.csproj.CoreCompileInputs.cache
+C:\Users\Ajaybabu_Pallapu\source\repos\visitor\visitor\obj\Debug\net6.0\visitor.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\visitor\visitor\obj\Debug\net6.0\ref\visitor.dll
+C:\Users\Ajaybabu_Pallapu\source\repos\visitor\visitor\obj\Debug\net6.0\visitor.pdb
+C:\Users\Ajaybabu_Pallapu\source\repos\visitor\visitor\obj\Debug\net6.0\visitor.genruntimeconfig.cache
